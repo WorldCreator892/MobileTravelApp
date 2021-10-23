@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:way_application/page/LoginApp.dart';
+import 'package:way_application/LoginApp.dart';
 import 'MainPage.dart';
 
 class LosePasss extends StatelessWidget {
